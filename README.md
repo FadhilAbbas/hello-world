@@ -1,2 +1,1 @@
-# hello-world
-just another repository
+im injoy with GetHub
